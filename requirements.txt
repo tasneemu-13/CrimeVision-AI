@@ -1,0 +1,10 @@
+streamlit>=1.36
+pandas>=2.0
+requests>=2.31
+Pillow>=10.0
+opencv-python-headless>=4.9
+reportlab>=4.0
+SQLAlchemy>=2.0
+bcrypt>=4.0
+python-dotenv>=1.0
+pytest>=8.0
